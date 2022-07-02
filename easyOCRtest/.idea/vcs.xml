@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/EasyOCR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRDG2DTRB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/research/deep-text-recognition-benchmark" vcs="Git" />
+  </component>
+</project>
